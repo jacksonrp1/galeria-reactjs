@@ -16,6 +16,11 @@
 ```
 git clone https://github.com/jacksonrp1/galeria.git
 ```
+#### Dentro do projeto recém-clonado, você pode executar:
+```
+npm install
+```
+
 Acesse a documentação do Pexels para obter o token de acesso
 <a href="https://www.pexels.com/pt-br/api/">Comece a criar com o poder do Pexels</a>
 </br>
