@@ -9,6 +9,8 @@
 
 # Projeto Galeria Responsiva   
 
+### <a href="https://jacksonrp1.github.io/galeria/build/">Clique aqui</a> para visualizar o projeto concluído.
+
 #### Scripts Disponíveis
 
 ```
