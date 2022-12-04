@@ -14,7 +14,7 @@
 #### Scripts Disponíveis
 
 ```
-git clone https://github.com/jacksonrp1/galeria.git
+git clone https://github.com/jacksonrp1/galeria-reactjs.git
 ```
 #### Dentro do projeto recém-clonado, você pode executar:
 ```
@@ -27,7 +27,7 @@ Acesse a documentação do Pexels para obter o token de acesso
 </br>
 Após obter a Chave Api
 
-No arquivo <a href="https://github.com/jacksonrp1/galeria/blob/main/src/api.js">api.js</a>
+No arquivo <a href="https://github.com/jacksonrp1/galeria-reactjs/blob/main/src/api.js">api.js</a>
 ```javascript
 const token = 'Sua chave Token'
 
