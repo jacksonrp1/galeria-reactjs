@@ -2,7 +2,7 @@
   <a href="https://www.jacksondev.com.br/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Website&message=JacksonDev&color=red&style=for-the-badge&logo=webflow"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank">
+  <a href="https://pt-br.reactjs.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=React Js&color=202124&style=flat-square&logo=react"/>
   </a>
 </div>
